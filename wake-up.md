@@ -11,4 +11,3 @@ choose your starter:
 
 [Sprigatito, the grass type](chosen-sprigatito.md)
 
-[quit](README.md)
