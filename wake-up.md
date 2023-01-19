@@ -3,10 +3,10 @@ You have woken up and put start to put on your clothes for your new life at the 
 choose your starter:
 
 
-[Fuecoco, the fire type](chosen-fuecoco)
+[Fuecoco, the fire type](chosen-fuecoco.md)
 
 
-[Quaxly, the water type](chosen-quaxly)
+[Quaxly, the water type](chosen-quaxly.md)
 
 
-[Sprigatito, the grass type](chosen-sprigatito)
+[Sprigatito, the grass type](chosen-sprigatito.md)

@@ -1,4 +1,4 @@
 You have chosen Quaxly, the water type pokemon and will now be on your way to fight the first of 8 gyms,
 The Cortondo gym
 
-[travel to cortondo gym](cortondo-gym)
+[Travel to cortondo gym](cortondo-gym)
