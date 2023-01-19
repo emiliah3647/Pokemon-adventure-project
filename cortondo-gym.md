@@ -4,4 +4,4 @@ You have decided on a starter and are now headed to the cortondo gym. will you..
 
 or
 
-[head straight for the gym with your one pokemon](defeated)
+[head straight for the gym with your one pokemon](defeated.md)
