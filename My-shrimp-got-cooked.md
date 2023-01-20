@@ -6,6 +6,6 @@ The professor called you up saying to come to the lighthouse,which has their lab
 
 Arven is just having the worst time right now and the only way to prevent trust issues is to battle.
 
-[quickly catching a water type and fairy type and im set]
+[quickly catching a water type and fairy type and im set](Arven-is-now-crying.md)
 
 [Okay Arven,its been fun but your odd,im out](defeat-titan-path.md)
