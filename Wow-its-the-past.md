@@ -2,7 +2,7 @@ After leaving Arven to his  homemade subway's bar, you head on over to the asado
 
 is that another pokemon?never seen that in the pokedex...
 
-you see it as a donphant but with a lot more hair and spikes.
+you see it as a donphan but with a lot more hair and spikes.
 
 it's a great tusk about to tramble you and or kill you.
 
