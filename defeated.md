@@ -3,3 +3,6 @@ you have lost the fight against the gym leader, member of the elite four, or cha
 
 
 [start over](wake-up.md)
+
+
+[Quit](README.md)
