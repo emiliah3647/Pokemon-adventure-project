@@ -2,4 +2,4 @@ you beat up the worm with a numel,yes you caught a numel,do not cry about it. Ar
 
 but his suffering dog is happy about them sandwich.
 
-[okay lets move on,things are getting happier]
+[okay lets move on,things are getting happier](Wow-its-the-past.md)
