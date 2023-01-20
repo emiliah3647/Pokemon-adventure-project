@@ -1,4 +1,4 @@
-you have lost the fight against the gym leader, member of the elite four, or champion Geeta due to your poor pokemon decisions. you are humiliated by your defeat and decide that battling isn't cut out for you.
+you have lost the fight against the gym leader due to your poor pokemon decisions. you are humiliated by your defeat and decide that battling isn't cut out for you.
 
 
 
