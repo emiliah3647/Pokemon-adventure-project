@@ -6,6 +6,6 @@ you see it as a donphant but with a lot more hair and spikes.
 
 it's a great tusk about to tramble you and or kill you.
 
-[Getting myself a grass type and defeating it!]()
+[Getting myself a grass type and defeating it!](Poaching-a-elephant.md)
 
 [ok fr though,im out.] (defeat-titan-path.md)
