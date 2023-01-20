@@ -2,4 +2,4 @@ You quickly caught a grass type and swiftly took it down. Arven's returned and h
 
 his dog is doing a bit better than before but still looks like it got out of war.
 
-[ok lets move on]
+[ok lets move on](Look-at-the-lil-shrimp-mastermind.md)
