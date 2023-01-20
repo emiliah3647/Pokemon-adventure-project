@@ -1,4 +1,3 @@
-You have chosen Fuecoco, the fire type pokemon and will now be on your way to fight the first of 8 gyms,
-The Cortondo gym
+You have chosen Fuecoco, the fire type pokemon and will now be able to choose your pokemon journey
 
-[Travel to cortondo gym](cortondo-gym.md)
+[Choose your path](choose-path.md)
