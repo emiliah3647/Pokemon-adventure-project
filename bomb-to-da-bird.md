@@ -4,4 +4,4 @@ cowabummer.
 
 but he fed you too so cry while you eat!
 
-[lets move on before the waterworks comes in]
+[lets move on before the waterworks comes in](weed-worm.md)
