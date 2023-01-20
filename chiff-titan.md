@@ -5,4 +5,4 @@ you go over to the cliffs and...is that a giant crab or something?Nah its Klawf 
 
 [sendng out my pokemon for this]
 
-[hell naw,running.]
+[hell naw,running.](defeat-titan-path.md)
