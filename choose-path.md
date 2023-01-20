@@ -1,6 +1,6 @@
 would you like to...
 
-follow the path of legends
+[follow the path of legends](chiff-titan.md)
 fighting the titans
 
 or
