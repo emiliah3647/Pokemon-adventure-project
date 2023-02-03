@@ -1,0 +1,1 @@
+After you beat the dark type user,you go over to see the 
