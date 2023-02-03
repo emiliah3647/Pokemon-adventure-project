@@ -10,4 +10,4 @@ fighting the gym leaders, elite four and champions
 
 or
 
-[Go and fight team star]
+[Go and fight team star](Giacomo-fight.md)
