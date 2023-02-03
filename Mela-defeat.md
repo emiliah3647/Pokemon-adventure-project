@@ -8,3 +8,4 @@ you get more points from Cassiopeia,and penny comes to give you some supply,your
 
 after that she gives you the stuff and leaves.
 
+[Lets keep going!](Atticus-fight.md)
