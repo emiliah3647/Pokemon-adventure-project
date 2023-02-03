@@ -6,4 +6,4 @@ Eri reveals a lot about Team star and the way they won there first battle.
 
 After all of that you know the drill,and after said drill,Cassiopeia says to go fight them in front of the school.
 
-[Ok!Time to fight Cassiopeia!]
+[Ok!Time to fight Cassiopeia!](Cassiopeia-fight.md)
