@@ -5,3 +5,5 @@ after there lengthy convosation,Clavell says they can keep Team Starbut they wou
 penny thanks you.
 
 You've finished the team star path.
+
+[Start a new adventure!](wake-up.md)
