@@ -2,6 +2,6 @@ After you beat the dark type user,you go over to see the the schedar base and me
 
 you go over to the gate and you now have to fight a team star grunt.
 
-[go catch a water type and fight the base]
+[go catch a water type and fight the base](Mela-defeat.md)
 
 [admit defeat](Team-star-defeat.md)

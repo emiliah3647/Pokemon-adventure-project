@@ -5,6 +5,6 @@ you see a tiny child that says he's best buds with the leader of this base,the w
 
 he challages you to a fight and now you have to fight a actual kid.
 
-[go catch a steel type and go fight]
+[go catch a steel type and go fight](Atticus-defeat.md)
 
 [I'm leaving,goodbye!](Team-star-defeat.md)
