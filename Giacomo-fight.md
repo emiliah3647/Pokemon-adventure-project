@@ -4,6 +4,6 @@ you go over the the segin squad base and you meet a figure that oddly looks to b
 
 you see a grunt at the gate  of the base and they challage you to a battle!
 
-[grab a fighting type to fight the base]
+[grab a fighting type to fight the base](Giacomo-defeat.md)
 
-[don't catch and go fight them]
+[don't catch and go fight them](Team-star-defeat.md)

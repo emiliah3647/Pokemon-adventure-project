@@ -6,4 +6,4 @@ it's hard to explain but he gives you the dark badge!
 
 the director of this operation,cassiopeia,gives you some points for helping and sends over a member to give you some supply for your quest!
 
-[onto the next member we go!]()
+[onto the next member we go!](Mela-fight.md)
