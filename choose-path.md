@@ -7,3 +7,8 @@ or
 
 [follow the path of victory road](cortondo-gym.md)
 fighting the gym leaders, elite four and champions
+
+or
+
+[Go and fight team star](Giacomo-fight.md)
+fight the bosses of team star.
