@@ -2,7 +2,7 @@ After using your Electric and grass type to help Arven and slay the false dragon
 
 As you eat your really good homemade subway sub,you see the dog that Arven guilt trip you with awaken its old self.and as you witness it you get a call on your Irotom.
 
-The professor called you up saying to come to the lighthouse,which has their lab,and only Arven can get in because backstory purpose's.
+The professor called you up saying to come to the lighthouse, which has their lab,and only Arven can get in because backstory purpose's.
 
 Arven is just having the worst time right now and the only way to prevent trust issues is to battle.
 
