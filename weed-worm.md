@@ -1,4 +1,4 @@
-After being fed again by Arven,you head over to the east of paldea and you come arcoss two small eyes in a cave.
+After being fed again by Arven, you head over to the east of paldea and you come arcoss two small eyes in a cave.
 
 you know full well caves do not have eyes so it has to be something.
 

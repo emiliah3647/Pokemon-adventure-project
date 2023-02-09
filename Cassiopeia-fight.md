@@ -1,4 +1,4 @@
-Yoh head on over to the school and meet...Clavell?
+You head on over to the school and meet...Clavell?
 
 Yep that's right,it was him all along!(not too shocking)
 

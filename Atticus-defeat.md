@@ -1,4 +1,4 @@
-After a very long battle with the wannabe ninja,you beat him and the car. he admits defeat and from there he sees your effort.
+After a very long battle with the wannabe ninja, you beat him and the car. he admits defeat and from there he sees your effort.
 
 he explains that he made the outfits for the rest of team star.you find it pretty cool.
 
